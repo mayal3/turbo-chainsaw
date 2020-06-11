@@ -847,12 +847,12 @@ html, body {
 /* line 12, /Users/kavyasukumar/Projects/bz-moreworld/source/stylesheets/partials/_typography.scss */
 h1, h2, h3 {
   font-family: "Merriweather", serif;
-  color: #262626;
+  color: black;
   line-height: 1.8em; }
 
 /* line 18, /Users/kavyasukumar/Projects/bz-moreworld/source/stylesheets/partials/_typography.scss */
 h4, h5, h6 {
-  color: #262626;
+  color: black;
   line-height: 1.8em;
   font-size: 1.3em; }
 
@@ -867,7 +867,7 @@ p, body {
   font-family: "Archivo Narrow", sans-serif;
   font-size: 24px;
   font-weight: 400;
-  color: #595959; }
+  color: blue; }
 
 /* line 37, /Users/kavyasukumar/Projects/bz-moreworld/source/stylesheets/partials/_typography.scss */
 .quote, .quote-cont {
@@ -877,7 +877,7 @@ p, body {
   text-align: center; }
   /* line 42, /Users/kavyasukumar/Projects/bz-moreworld/source/stylesheets/partials/_typography.scss */
   .quote.highlight, .quote-cont.highlight {
-    color: #798C35;
+    color: black;
     font-size: 4.2rem; }
 
 /* line 48, /Users/kavyasukumar/Projects/bz-moreworld/source/stylesheets/partials/_typography.scss */
@@ -1051,7 +1051,7 @@ section {
     #toneToggle span.selected,
     #toneToggle span:hover {
       color: white;
-      background-color: #798C35;
+      background-color: blue;
       font-weight: bold; }
 
 /* line 94, /Users/kavyasukumar/Projects/bz-moreworld/source/stylesheets/site.css.scss */
